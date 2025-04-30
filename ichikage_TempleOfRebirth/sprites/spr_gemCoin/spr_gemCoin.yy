@@ -2,17 +2,17 @@
   "$GMSprite":"",
   "%Name":"spr_gemCoin",
   "bboxMode":0,
-  "bbox_bottom":35,
-  "bbox_left":25,
-  "bbox_right":39,
-  "bbox_top":21,
+  "bbox_bottom":51,
+  "bbox_left":14,
+  "bbox_right":50,
+  "bbox_top":17,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"bef7ceb1-1ce5-4da2-8215-d295dd89f485","name":"bef7ceb1-1ce5-4da2-8215-d295dd89f485","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"7ad0f68b-ab6a-4fe8-a360-37b06edf1591","name":"7ad0f68b-ab6a-4fe8-a360-37b06edf1591","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bef7ceb1-1ce5-4da2-8215-d295dd89f485","path":"sprites/spr_gemCoin/spr_gemCoin.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"649bc15d-318c-47d3-a2a5-1c2c876b9aa6","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"7ad0f68b-ab6a-4fe8-a360-37b06edf1591","path":"sprites/spr_gemCoin/spr_gemCoin.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"988d1214-5266-4c4e-8fbc-24f48a260054","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

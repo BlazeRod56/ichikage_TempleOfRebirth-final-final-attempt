@@ -20,6 +20,13 @@ effect_create_above(3, 0, 0, 2, $FFFF0019 & $ffffff);
 /// @DnDArgument : "var" "coins"
 coins = 1;
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 10AE431C
+/// @DnDArgument : "soundid" "sfx_coin_collect"
+/// @DnDSaveInfo : "soundid" "sfx_coin_collect"
+audio_play_sound(sfx_coin_collect, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2D3ACD03
